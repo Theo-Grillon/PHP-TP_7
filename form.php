@@ -1,4 +1,5 @@
 <?php
+//final
 class Formulaire{
     protected $form="";
     public function __construct($filename)

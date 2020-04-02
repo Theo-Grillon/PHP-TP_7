@@ -15,6 +15,7 @@ $f->addCheckbox("Tennis");
 $f->addCheckbox("Equitation");
 echo $f->getForm();
 ?>
+
 <hr>
 <h2>Exercice2</h2>
 <?php
